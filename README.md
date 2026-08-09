@@ -1,8 +1,8 @@
-# ☕ Java Lab
+### ☕ Java Lab
 
 A collection of Java laboratory exercises and practical assignments.
 
-## 📚 Topics Covered
+### 📚 Topics Covered
 
 - Variables and data types
 - Selection statements
@@ -12,17 +12,21 @@ A collection of Java laboratory exercises and practical assignments.
 - Methods
 - Object-oriented programming
 
-## 📁 Project Structure
+### 📁 Project Structure
 
-- Practical Work 1
-- Practical Work 2
-- Java Exercises
+- Labactivity 1.1
+- Labactivity 2.1
+- Labactivity 3.1
+- Exercises 1.1
 
-## 🛠️ Technology
+### 🛠️ Technology
 
 - Java
-- Visual Studio Code / NetBeans
+- Visual Studio Code
+- NetBeans
+- bulej
+- notepad++
 
-## 👨‍💻 Author
+### 👨‍💻 Author
 
 Developed by Irwan Shahiman.
