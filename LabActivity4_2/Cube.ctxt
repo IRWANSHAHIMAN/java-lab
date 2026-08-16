@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Jul 26 23:14:21 MYT 2026
+comment0.target=Cube
+comment1.target=Cube()
+comment2.params=length width heigth
+comment2.target=Cube(double, double, double)
+comment3.target=double calculateVolume()
+comment4.params=args
+comment4.target=void main(java.lang.String[])
+numComments=5
