@@ -18,6 +18,8 @@ A collection of Java laboratory exercises and practical assignments.
 - Labactivity 2.1
 - Labactivity 3.1
 - Exercises 1.1
+- labactivity 1.2
+- labactivity 2.2
 
 ## 🛠️ Technology
 
