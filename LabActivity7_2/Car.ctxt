@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sat Jul 18 10:24:22 MYT 2026
+comment0.target=Car
+comment1.target=java.lang.String getBrand()
+comment2.params=brand
+comment2.target=void setBrand(java.lang.String)
+comment3.params=args
+comment3.target=void main(java.lang.String[])
+numComments=4
