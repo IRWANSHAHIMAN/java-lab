@@ -25,6 +25,7 @@ A collection of Java laboratory exercises and practical assignments.
 - labactivity 5.2
 - labactivity 6.2
 - Labactivity 7.2
+- Labactivity 8.2
 
 ## 🛠️ Technology
 
@@ -37,3 +38,4 @@ A collection of Java laboratory exercises and practical assignments.
 ## 👨‍💻 Author
 
 Developed by Irwan Shahiman.
+
