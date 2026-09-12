@@ -27,6 +27,7 @@ A collection of Java laboratory exercises and practical assignments.
 - Labactivity 7.2
 - Labactivity 8.2
 - Labactivity 9.2
+- Labactivity 10.2
 
 ## 🛠️ Technology
 
