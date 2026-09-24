@@ -1,0 +1,18 @@
+#BlueJ class context
+#Mon Aug 03 12:57:20 MYT 2026
+comment0.target=Bus
+comment1.target=Bus()
+comment10.target=void displayBusInfo()
+comment2.params=model year price
+comment2.target=Bus(java.lang.String, int, double)
+comment3.target=java.lang.String getModel()
+comment4.params=model
+comment4.target=void setModel(java.lang.String)
+comment5.target=int getYear()
+comment6.params=year
+comment6.target=void setYear(int)
+comment7.target=double getPrice()
+comment8.params=price
+comment8.target=void setPrice(double)
+comment9.target=void acceptBusInfo()
+numComments=11
