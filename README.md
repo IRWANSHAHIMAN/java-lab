@@ -32,6 +32,7 @@ A collection of Java laboratory exercises and practical assignments.
 - Labactivity 12.2
 - Exercise 1.2
 - Exercise 2.2
+- Exercise 3.2
 
 ## 🛠️ Technology
 
